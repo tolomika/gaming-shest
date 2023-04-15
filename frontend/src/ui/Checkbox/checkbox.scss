@@ -1,0 +1,34 @@
+.checkbox{
+   width: fit-content;
+   display: flex;
+   align-items: center;
+   cursor: pointer;
+   user-select: none;
+   -webkit-user-select: none;
+   -moz-user-select: none;
+
+   input{
+      display: none;
+   }
+
+   span{
+      width: 20px;
+      height: 20px;
+      background-color: #000000ba;
+      border-radius: 7px;
+      transition: all 0.1s;
+      -webkit-transition: all 0.1s;
+      -moz-transition: all 0.1s;
+      -o-transition: all 0.1s;
+      margin-right: 10px;
+   }
+
+   p{
+      font-size: 18px;
+      color: #ffffff;
+   }
+}
+
+.checkbox__btn:checked + .checkbox__btn-custom{
+   background-color: #ff2314;
+}

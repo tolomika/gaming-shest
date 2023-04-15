@@ -1,0 +1,44 @@
+.game-store{
+   width: 100%;
+   display: flex;
+   justify-content: center;
+   padding: 20px 0 20px 0;
+}
+
+.game-store__cntr{
+   width: 60%;
+   display: grid;
+   justify-content: space-between;
+   grid-template-columns: repeat(4, 1fr);
+   grid-gap: 30px;
+}
+
+@media (max-width: 1700px){
+   .game-store__cntr{
+      width: 57%;
+      grid-template-columns: repeat(3, 1fr);
+   }
+}
+
+@media (max-width: 1275px){
+   .game-store__cntr{
+      grid-template-columns: 1fr 1fr;
+      width: 50%;
+   }
+}
+
+@media (max-width: 1130px){
+   .game-store__cntr{
+      width: 45%;
+   }
+}
+
+@media (max-width: 1024px){
+   .game-store{
+      padding: 55px 0;
+   }
+
+   .game-store__cntr{
+      width: 90%;
+   }
+}

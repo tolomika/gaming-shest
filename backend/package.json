@@ -1,0 +1,22 @@
+{
+   "name": "backend",
+   "version": "1.0.0",
+   "description": "backend fron gaming_shest",
+   "main": "index.js",
+   "author": "Egor <shest_ernev@mail.ru>",
+   "license": "MIT",
+   "type": "module",
+   "scripts": {
+      "start": "node ./src/index.js",
+      "dev": "nodemon ./src/index.js"
+   },
+   "dependencies": {
+      "bcrypt": "^5.1.0",
+      "cors": "^2.8.5",
+      "express": "^4.18.2",
+      "express-validator": "^6.15.0",
+      "jsonwebtoken": "^9.0.0",
+      "mongoose": "^7.0.2",
+      "nodemon": "^2.0.21"
+   }
+}

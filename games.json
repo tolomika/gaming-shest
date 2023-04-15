@@ -1,0 +1,254 @@
+[
+   {
+      "name": "Call of Duty: Modern Warfare 2 Campaign Remastered",
+      "poster": "http://localhost:7777/games/cod_mw2/poster.jpg",
+      "images": [
+         "http://localhost:7777/games/cod_mw2/1.jpg",
+         "http://localhost:7777/games/cod_mw2/2.jpg",
+         "http://localhost:7777/games/cod_mw2/3.jpg"
+      ],
+      "genre": ["shooter"],
+      "magnet": "magnet:?xt=urn:btih:eecf5131d23730ad61d7c390048006939385c9f5",
+      "description": "The action takes place several years after the events that occurred in the first part of the blockbuster. As part of a special anti-terrorism squad under the command of Captain John McTavish, the player will take part in the most dangerous operations in various parts of the world: in the snowy mountains of Kazakhstan and the slums of Rio de Janeiro, in the sands of Afghanistan and even in the vast expanses of Russia. In breathtaking skirmishes and hand-to-hand fights with extremists, the fighters of the elite squad will use the latest weapons, equipment and equipment",
+      "require": {
+         "cpu": " Intel Core i3-4340 or AMD FX-6300",
+         "ram": "8 GB",
+         "videoCard": "NVIDIA GeForce GTX 670 / NVIDIA GeForce GTX 1650 / AMD Radeon HD 7950",
+         "memory": "65 Gb",
+         "os": ["10"]
+      },
+      "views": 0,
+      "price": 99
+   },
+   {
+      "name": "Need For Speed Pro Street",
+      "poster": "http://localhost:7777/games/nfs_pro-street/poster.jpg",
+      "images": [
+         "http://localhost:7777/games/nfs_pro-street/1.jpg",
+         "http://localhost:7777/games/nfs_pro-street/2.jpg",
+         "http://localhost:7777/games/nfs_pro-street/3.jpg"
+      ],
+      "genre": ["race", "sport"],
+      "magnet": "magnet:?xt=urn:btih:5d47eede22029560d515af10ed057962edcacf57",
+      "description": "Now you do not need to hide from the cops - all races into nature are legal on specially fenced sections of roads. In Need for Speed ​​ProStreet, the main rivals will be very skilled racers. On the track, they behave very aggressively and at any moment they can cut you off or even try to knock you into a ditch. After your car was just chest scrap metal, the days of unbreakable cars for Need for Speed ​​ProStreet are over",
+      "require": {
+         "cpu": "Intel Pentium 4 / AMD Athlon 64 3200+",
+         "ram": "512 Mb",
+         "videoCard": "128 Mb compatible with DirectX 9",
+         "memory": "7.5 Gb",
+         "os": ["xp", "vista", "7", "8", "10"]
+      },
+      "views": 0,
+      "price": 85
+   },
+   {
+      "name": "Mafia 2",
+      "poster": "http://localhost:7777/games/mafia_2/poster.jpg",
+      "images": [
+         "http://localhost:7777/games/mafia_2/1.jpg",
+         "http://localhost:7777/games/mafia_2/2.jpg",
+         "http://localhost:7777/games/mafia_2/3.jpg"
+      ],
+      "genre": ["adventure", "shooter"],
+      "magnet": "magnet:?xt=urn:btih:4e974d6631fa5e776e6ced72145179c3d88ec233",
+      "description": "“A person who can be entrusted with any business” - this is how the inhabitants of Empire Bay know Vito Scaletta. Together with Joe, a childhood friend, he is ready to do anything to prove his loyalty to the mafia. Big crimes, big rewards, influence and... consequences. Vito knows from his own experience that the sacred right to life is very easy to take away",
+      "require": {
+         "cpu": "Pentium D or AMD Athlon 64 X2 3600+",
+         "ram": "1.5 Gb",
+         "videoCard": "NVIDIA GeForce 8600 / ATI HD2600",
+         "memory": "8 Gb",
+         "os": ["7", "8", "10"]
+      },
+      "views": 0,
+      "price": 54
+   },
+   {
+      "name": "Atomic Heart",
+      "poster": "http://localhost:7777/games/atomic_heart/poster.jpg",
+      "images": [
+         "http://localhost:7777/games/atomic_heart/1.jpg",
+         "http://localhost:7777/games/atomic_heart/2.jpg",
+         "http://localhost:7777/games/atomic_heart/3.jpg"
+      ],
+      "genre": ["shooter"],
+      "magnet": "magnet:?xt=urn:btih:7b26aa44b0f2f419ccd2411f2aef42ed6fb0c8cc",
+      "description": "Atomic Heart is an action-adventure action game set in a parallel world where the Soviet Union never ceased to exist. Leading scientists have made strong technological progress, which over time has allowed the creation of intelligent robots, with deep artificial intelligence. But one day, these creatures began to get out of control, attacking the entire staff of everyone at the enterprise",
+      "require": {
+         "cpu": "AMD Radeon R9 380 / NVIDIA GeForce GTX 960",
+         "ram": "8 Gb",
+         "videoCard": "NVIDIA GeForce 8600 / ATI HD2600",
+         "memory": "80 Gb",
+         "os": ["10"]
+      },
+      "views": 0,
+      "price": 75
+   },
+   {
+      "name": "The Witcher 3",
+      "poster": "http://localhost:7777/games/the_witcher3/poster.jpg",
+      "images": [
+         "http://localhost:7777/games/the_witcher3/1.jpg",
+         "http://localhost:7777/games/the_witcher3/2.jpg",
+         "http://localhost:7777/games/the_witcher3/3.jpg"
+      ],
+      "genre": ["action rpg", "adventure"],
+      "magnet": "magnet:?xt=urn:btih:2310e7b5abf5e74ede8efc011fe653ab7ac384d9",
+      "description": "The world is engulfed in war. The army of the Nilfgaard empire erases everything in its path, trying to get to the very heart of the Northern Kingdoms. Driven by deeply personal motives, the famous witcher, Geralt of Rivia, will stop at nothing to find and protect a certain person spoken of in an ancient prophecy. Meanwhile, an enemy who knows no fear and pity follows him, the most unimaginable nightmare - the Wild Hunt, a cavalcade of ghostly riders, harbingers of doom and death, capable of leaving no trace of entire settlements in just one night",
+      "require": {
+         "cpu": "Intel Core i5-2500K or AMD Phenom II X4 940",
+         "ram": "6 Gb",
+         "videoCard": "NVIDIA GeForce GTX 660 / Radeon HD 7870",
+         "memory": "56 Gb",
+         "os": ["7", "8", "10"]
+      },
+      "views": 0,
+      "price": 64
+   },
+   {
+      "name": "Hogwarts Legasy",
+      "poster": "http://localhost:7777/games/hogwarts_legasy/poster.jpg",
+      "images": [
+         "http://localhost:7777/games/hogwarts_legasy/1.jpg",
+         "http://localhost:7777/games/hogwarts_legasy/2.jpg",
+         "http://localhost:7777/games/hogwarts_legasy/3.jpg"
+      ],
+      "genre": ["action rpg", "adventure"],
+      "magnet": "magnet:?xt=urn:btih:96a3622178706ec680064780c2322d0920d077a9",
+      "description": "The game takes place in the Hogwarts of the 1800s (i.e. almost 200 years before the birth of Harry Potter). Your character is a student holding the key to an ancient secret that threatens to tear the magical world apart",
+      "require": {
+         "cpu": "Intel Core i5-6600 / AMD Ryzen 5 1400",
+         "ram": "16 Gb",
+         "videoCard": "NVIDIA GeForce GTX 960 4GB / AMD Radeon RX 470 4GB",
+         "memory": "73 Gb",
+         "os": ["10"]
+      },
+      "views": 0,
+      "price": 154
+   },
+   {
+      "name": "Detroit: Become Human",
+      "poster": "http://localhost:7777/games/detroit/poster.jpg",
+      "images": [
+         "http://localhost:7777/games/detroit/1.jpg",
+         "http://localhost:7777/games/detroit/2.jpg",
+         "http://localhost:7777/games/detroit/3.jpg"
+      ],
+      "genre": ["interactive movie"],
+      "magnet": "magnet:?xt=urn:btih:f738be4f768899e0f65ba64d7fe1568bcdb89678",
+      "description": "Detroit, 2038 Technology has evolved to such an extent that humanoid androids are found at every turn. They talk, they move, they act like human beings, but they are just machines in the service of people. Play as three different androids and see the world on the brink of chaos - our possible future - through their eyes. Every decision you make will lead to dramatic twists in the game's tense, branching storyline. You will face moral dilemmas, you will have to decide who will live and who will die. What will be the future of Detroit and the fate of humanity as a result of thousands of decisions you make and dozens of possible endings?",
+      "require": {
+         "cpu": "Intel Core i5-6600 / AMD Ryzen 5 1400",
+         "ram": "8 Gb",
+         "videoCard": "NVIDIA GeForce GTX 780 / AMD HD 7950 3GB VRAM",
+         "memory": "60 Gb",
+         "os": ["7", "8", "10"]
+      },
+      "views": 0,
+      "price": 43
+   },
+   {
+      "name": "Dirt Rally 2.0",
+      "poster": "http://localhost:7777/games/dirt_rally2/poster.jpg",
+      "images": [
+         "http://localhost:7777/games/dirt_rally2/1.jpg",
+         "http://localhost:7777/games/dirt_rally2/2.jpg",
+         "http://localhost:7777/games/dirt_rally2/3.jpg"
+      ],
+      "genre": ["race", "sport"],
+      "magnet": "magnet:?xt=urn:btih:a9b1aced8ccb94bd86d95621d6c5055953a48110",
+      "description": "It's time to fully immerse yourself in exciting adventures and try to achieve not only recognition, but also an excellent reputation. As you might guess from the title, this time we will talk about high-speed cars that are used exclusively for rallying. This race is intended exclusively for the courageous racers who are not afraid of off-road and make every effort to achieve a good result",
+      "require": {
+         "cpu": "AMD FX4300 / Intel Core i3 2130",
+         "ram": "8 Gb",
+         "videoCard": "AMD HD 7750 / NVIDIA GTX 650Ti",
+         "memory": "70 Gb",
+         "os": ["7", "8", "10"]
+      },
+      "views": 0,
+      "price": 63
+   },
+   {
+      "name": "Outlast",
+      "poster": "http://localhost:7777/games/outlast/poster.jpg",
+      "images": [
+         "http://localhost:7777/games/outlast/1.jpg",
+         "http://localhost:7777/games/outlast/2.jpg",
+         "http://localhost:7777/games/outlast/3.jpg"
+      ],
+      "genre": ["horror"],
+      "magnet": "magnet:?xt=urn:btih:f0608f004fd9dc707e47948ffb7b1b617911b374",
+      "description": "Journalist Miles Upshur, who decided to find out what was happening in the psychiatric hospital Mount Massive. It has been abandoned for many years, but recently it was bought out by the Murkoff Corporation, whose research is rife with nasty rumors. To save himself from the horror that awaited him inside, Miles must learn the truth. He will meet the most terrible of his nightmares, lying on the verge of science and religion. The only goal of the protagonist is to get out of the hospital at all costs",
+      "require": {
+         "cpu": "Intel Core 2 Duo / AMD Athlon X2 4400+",
+         "ram": "2 Gb",
+         "videoCard": "NVIDIA GeForce 9800GTX / AMD Radeon HD 4870",
+         "memory": "4 Gb",
+         "os": ["7", "8", "10"]
+      },
+      "views": 0,
+      "price": 53
+   },
+   {
+      "name": "A Way Out",
+      "poster": "http://localhost:7777/games/a_way_out/poster.jpg",
+      "images": [
+         "http://localhost:7777/games/a_way_out/1.jpg",
+         "http://localhost:7777/games/a_way_out/2.jpg",
+         "http://localhost:7777/games/a_way_out/3.jpg"
+      ],
+      "genre": ["interactive movie", "shooter"],
+      "magnet": "magnet:?xt=urn:btih:9284cb331e24de724c164b52fbf750b918de350d",
+      "description": "The essence of the game is the interaction of two acting characters, which are the guys Leo and Vincent. By injustice they ended up in prison and now they crave only one thing - to escape from prison and get even with all those who contributed to their imprisonment. But this process is long and complicated, which means that players who decide to download A Way Out via torrent for free from our website will have to go through a whole series of missions and tasks prepared by the storyline",
+      "require": {
+         "cpu": "Intel Core 2 Duo / AMD Athlon X2 4400+",
+         "ram": "2 Gb",
+         "videoCard": "NVIDIA GeForce GTX 650Ti / AMD Radeon HD 7750",
+         "memory": "20 Gb",
+         "os": ["7", "8", "10"]
+      },
+      "views": 0,
+      "price": 34
+   },
+   {
+      "name": "Uncharted 4",
+      "poster": "http://localhost:7777/games/uncharted4/poster.jpg",
+      "images": [
+         "http://localhost:7777/games/uncharted4/1.jpg",
+         "http://localhost:7777/games/uncharted4/2.jpg",
+         "http://localhost:7777/games/uncharted4/3.jpg"
+      ],
+      "genre": ["adventure", "shooter"],
+      "magnet": "magnet:?xt=urn:btih:fb3b89a690f476edd97c3785a32bc4156883c5b9",
+      "description": "Edward Kenway is a young British man with a 'thirst for danger and adventure' who transforms from privateer to pirate and soon finds himself embroiled in a war between the Assassins and the Templars. It takes place at the dawn of the 18th century (Golden Age of Piracy) in the West Indies. In the game you can meet the famous pirates Blackbeard (Blackbeard) and Charles Wayne (Charles Vane). The gameplay of Assassin's Creed 4, according to Ubisoft, is based on the proven pillars of the series. We have an open world with over 50 locations. Edward will be able to use the weapons of the Assassins in combination with the characteristic weapons of the era. It will be possible to move between locations on the hero’s own ship, as well as participate in naval battles",
+      "require": {
+         "cpu": "Intel i5-4330 / AMD Ryzen 3 1200",
+         "ram": "16 Gb",
+         "videoCard": "NVIDIA GTX 960",
+         "memory": "40 Gb",
+         "os": ["10"]
+      },
+      "views": 0,
+      "price": 99
+   },
+   {
+      "name": "Raft",
+      "poster": "http://localhost:7777/games/raft/poster.jpg",
+      "images": [
+         "http://localhost:7777/games/raft/1.jpg",
+         "http://localhost:7777/games/raft/2.jpg",
+         "http://localhost:7777/games/raft/3.jpg"
+      ],
+      "genre": ["survival"],
+      "magnet": "magnet:?xt=urn:btih:aba9ba2e4a6ac0092ee14665e35f45587d29b988",
+      "description": "The whole essence of the game lies in survival, but there is also one highlight - this time you will have to survive not on land, not on land, but on water, floating through the vast expanses of the endless sea in a small boat. The role of the boat is a raft, consisting of only four blocks. And at the very beginning, you will only have to use a hook, with which you can get various garbage from the water. By the way, you can download the game Raft torrent for free from our website and now ...",
+      "require": {
+         "cpu": "Intel Core i5 / AMD Ryzen 3500h",
+         "ram": "6 Gb",
+         "videoCard": "GeForce GTX 700",
+         "memory": "10 Gb",
+         "os": ["7", "8", "10"]
+      },
+      "views": 0,
+      "price": 77
+   }
+]

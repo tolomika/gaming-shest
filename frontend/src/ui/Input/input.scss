@@ -1,0 +1,28 @@
+.custom-input{
+   height: 40px;
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   padding: 0 10px;
+
+   svg{
+      width: 27px;
+      height: 27px;
+      margin-right: 10px;
+      margin-top: 2px;
+
+      path{
+         fill: #c3afaf9e;
+      }
+   }
+
+   input{
+      width: 100%;
+      font-size: 17px;
+
+      &::placeholder{
+         font-size: 17px;
+         color: #c3afaf9e;
+      }
+   }
+}
