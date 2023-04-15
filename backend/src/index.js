@@ -14,7 +14,7 @@ import getOneGames from './controllers/games/getOneGames.js'
 
 mongoose
    .set('strictQuery', false)
-   .connect('mongodb+srv://shest:tujh200419@gameshestcluster.dj1cxeu.mongodb.net/game_shest?retryWrites=true&w=majority')
+   .connect('') // Сюда ссылку на кластер для базы Mongo (можно как и локальный так и глобальный)
    .then(() => console.log('DB ok'))
    .catch((err) => console.log('DB error', err))
 
